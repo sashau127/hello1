@@ -1,0 +1,15 @@
+C:\Users\100nout\Desktop\C#\HELLO_WORLD\bin\Debug\net6.0\HELLO_WORLD.exe
+C:\Users\100nout\Desktop\C#\HELLO_WORLD\bin\Debug\net6.0\HELLO_WORLD.deps.json
+C:\Users\100nout\Desktop\C#\HELLO_WORLD\bin\Debug\net6.0\HELLO_WORLD.runtimeconfig.json
+C:\Users\100nout\Desktop\C#\HELLO_WORLD\bin\Debug\net6.0\HELLO_WORLD.dll
+C:\Users\100nout\Desktop\C#\HELLO_WORLD\bin\Debug\net6.0\HELLO_WORLD.pdb
+C:\Users\100nout\Desktop\C#\HELLO_WORLD\obj\Debug\net6.0\HELLO_WORLD.csproj.AssemblyReference.cache
+C:\Users\100nout\Desktop\C#\HELLO_WORLD\obj\Debug\net6.0\HELLO_WORLD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\100nout\Desktop\C#\HELLO_WORLD\obj\Debug\net6.0\HELLO_WORLD.AssemblyInfoInputs.cache
+C:\Users\100nout\Desktop\C#\HELLO_WORLD\obj\Debug\net6.0\HELLO_WORLD.AssemblyInfo.cs
+C:\Users\100nout\Desktop\C#\HELLO_WORLD\obj\Debug\net6.0\HELLO_WORLD.csproj.CoreCompileInputs.cache
+C:\Users\100nout\Desktop\C#\HELLO_WORLD\obj\Debug\net6.0\HELLO_WORLD.dll
+C:\Users\100nout\Desktop\C#\HELLO_WORLD\obj\Debug\net6.0\refint\HELLO_WORLD.dll
+C:\Users\100nout\Desktop\C#\HELLO_WORLD\obj\Debug\net6.0\HELLO_WORLD.pdb
+C:\Users\100nout\Desktop\C#\HELLO_WORLD\obj\Debug\net6.0\HELLO_WORLD.genruntimeconfig.cache
+C:\Users\100nout\Desktop\C#\HELLO_WORLD\obj\Debug\net6.0\ref\HELLO_WORLD.dll
